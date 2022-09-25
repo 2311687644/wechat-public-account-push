@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'qc9OXhS0fpUL4_3dA5cTIA7wBhmEwKpcuBi37Kx7tqk',
       // 所在省份
       province: '四川',
       // 所在城市
@@ -171,6 +171,44 @@ const USER_CONFIG = {
       },
     },
     {
+      name: '老婆1',
+      id: '',
+      useTemplateId: '',
+      province: '',
+      city: '',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [],
+      customizedDateList: [],
+      courseSchedule: null
+    },
+    {
+      name: '老婆2',
+      id: '',
+      useTemplateId: '',
+      province: '',
+      city: '',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [],
+      customizedDateList: [],
+      courseSchedule: null
+    },
+    {
+      name: '老婆3',
+      id: '',
+      useTemplateId: '',
+      province: '',
+      city: '',
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [],
+      customizedDateList: [],
+      courseSchedule: null
+    }
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -201,9 +239,9 @@ const USER_CONFIG = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '四川',
+  PROVINCE: '广东',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '绵阳',
+  CITY: '惠州',
 
   /** 重要节日相关 */
 
