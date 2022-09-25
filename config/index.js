@@ -65,9 +65,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '怡宝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oSwV_50J26qvm9VPtwQvwnr6ioqA',
+      id: 'oSwV_5-WFOJXWbq9yiluELzZUWDw','oSwV_50J26qvm9VPtwQvwnr6ioqA',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'JzDP_IF1EzL_1PGliAf-bg15zuFgKi-7HV3f47oYX8g',
+      useTemplateId: '_0yEAw2uJasnQKiDJPsGXkcW8ibZt7f0TQFc2CswV1Y',
       // 所在省份
       province: '四川',
       // 所在城市
